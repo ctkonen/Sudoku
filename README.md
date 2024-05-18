@@ -70,11 +70,3 @@ public class Main {
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify this `README.md` file to suit your specific needs. If you have any questions or issues, please open an issue on GitHub.
