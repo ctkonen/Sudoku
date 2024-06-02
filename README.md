@@ -67,6 +67,17 @@ public class Main {
 }
 ```
 
+
+## Sample Visualizations
+Here are some sample visualizations of the game:
+
+### Sample Gameplay
+![Distribution of Housing Prices](SampleGame.png)
+
+### Sample Solved Game
+![Median Income vs. Median House Value](SampleSolve.png)
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
